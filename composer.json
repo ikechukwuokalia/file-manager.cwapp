@@ -21,7 +21,7 @@
       "tymfrontiers-cdn/php-http-header" : ">=0.1@stable",
       "tymfrontiers-cdn/php-http-client" : ">=0.1@stable",
       "tymfrontiers-cdn/php-validator": ">=0.1.0@stable",
-      "tymfrontiers-cdn/php-file": ">=0.1.0@stable",
+      "ikechukwuokalia/php-file": ">=0.1.0@stable",
       "ikechukwuokalia/helper.cwapp" : ">=0.1@stable",
       "cataliwos/plugin.cwapp" : ">=0.1@stable",
       "cataliwos/dashui.cwapp" : ">=0.1@stable"
